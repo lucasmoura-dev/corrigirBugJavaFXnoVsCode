@@ -33,7 +33,7 @@ Caused by: java.lang.ClassNotFoundException: Libs.javafx-sdk-11.0.2.lib
       "name": "Launch App",
       "request": "launch",
       "mainClass": "App",
-      "projectName": "Nome qualquer",
+      "projectName": "Nome do projeto",
     }
   ]
 }
@@ -60,7 +60,7 @@ Caused by: java.lang.ClassNotFoundException: Libs.javafx-sdk-11.0.2.lib
       "name": "Launch App",
       "request": "launch",
       "mainClass": "App",
-      "projectName": "JavaFXTopDeLinha_f9690f11",
+      "projectName": "Nome do projeto",
       "vmArgs": "--module-path \"L:/Java/Java Libs/javafx-sdk-11.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
     }
   ]
